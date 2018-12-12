@@ -1,6 +1,6 @@
 A simple counter application using React.
 
-#### Scripts
+# Available Scripts
 
 In the project directory, you can run:
 
