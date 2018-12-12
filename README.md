@@ -5,7 +5,7 @@ A simple counter application using React.
 In the project directory, you can run:
 
 ```bash 
-`npm start`
+npm start
 ```
 
 Runs the app in the development mode.<br>
