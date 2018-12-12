@@ -1,6 +1,6 @@
-This is a counter application that demonstrates React fundamentals.
+A simple counter application using React.
 
-## Available Scripts
+## Scripts
 
 In the project directory, you can run:
 
